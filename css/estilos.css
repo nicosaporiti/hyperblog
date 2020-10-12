@@ -1,5 +1,5 @@
 body {
-    color: red;
+    color: black;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -36,4 +36,12 @@ body {
 
 #post {
     padding: 1em;
+}
+
+.footer {
+    background: grey;
+    text-align: center;
+    padding: 0.5em;
+    color: white;
+    font-weight: bold;
 }
